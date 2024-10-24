@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: clanok.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Database file #1: literatura.bib
+Warning--empty journal in r1
+Warning--empty journal in r2
+Warning--empty year in r2
+You've used 2 entries,
+            2118 wiz_defined-function locations,
+            504 strings with 4231 characters,
+and the built_in function-call counts, 744 in all, are:
+= -- 58
+> -- 66
+< -- 0
++ -- 27
+- -- 24
+* -- 63
+:= -- 143
+add.period$ -- 5
+call.type$ -- 2
+change.case$ -- 18
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 20
+empty$ -- 35
+format.name$ -- 24
+if$ -- 133
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 12
+num.names$ -- 4
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 16
+quote$ -- 0
+skip$ -- 13
+stack$ -- 0
+substring$ -- 11
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 3
+while$ -- 4
+width$ -- 3
+write$ -- 18
+(There were 3 warnings)
